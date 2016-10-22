@@ -1,3 +1,5 @@
+package test;
+
 import aima.search.framework.HeuristicFunction;
 import aima.search.framework.Problem;
 import aima.search.framework.Search;

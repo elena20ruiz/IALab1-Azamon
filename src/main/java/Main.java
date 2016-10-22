@@ -33,6 +33,7 @@ import static java.lang.Math.pow;
 import static java.lang.System.lineSeparator;
 import static java.math.RoundingMode.HALF_EVEN;
 import static java.util.regex.Pattern.compile;
+import static test.Tests.*;
 
 /**
  * @author David

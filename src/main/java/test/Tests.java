@@ -1,3 +1,5 @@
+package test;
+
 import aima.search.framework.HeuristicFunction;
 import domain.Parameters;
 import domain.State;
